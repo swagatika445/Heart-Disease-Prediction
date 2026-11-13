@@ -54,3 +54,8 @@ Data Analyst & Machine Learning Learner
 
 This project is for educational purposes only. It is not a substitute for professional medical advice or diagnosis.Heart-Disease-Prediction
 Heart Disease Prediction using Machine Learning | Python, Pandas, NumPy, Scikit-learn, Data Visualization and Streamlit.
+
+## 🎥 Project Demo Video
+
+[▶ Watch Heart Disease Prediction Demo](./Heart-Disease-Prediction%20video.mp4)
+
